@@ -1,4 +1,4 @@
-fastapi
-pyjwt[crypto]
-requests
-uvicorn
+fastapi==0.95.1
+pyjwt[crypto]==2.6.0
+requests==2.30.0
+uvicorn==0.22.0

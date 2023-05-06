@@ -1,8 +1,7 @@
-## Using Kubernetes?
+## Purpose
 
-If you're using Kuberentes, I would strongly encourage you to read this [blog post](https://hkiang01.github.io/kubernetes/keycloak/) that describes how to use Keycloak in a manner that secures APIs independently of the application.
-For code samples see https://github.com/hkiang01/keycloak-demo
-
+Based on https://github.com/hkiang01/fastapi-keycloak-oidc-auth
+learn how to use Keycloak in a manner that secures APIs independently of the application.
 
 ## Quickstart
 
